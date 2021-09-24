@@ -4,7 +4,7 @@ I am an undergraduate student at UBC majoring in Computer Science :seedling:
 
 You can reach me via [email](mailto:aliceykim0828@gmail.com?Subject=Hi%20there!) or [LinkedIn](https://linkedin.com/in/yehee). To check out a list of projects that I've been working on: [yehee.github.io](https://yehee.github.io)
 
-I am interested in web development :computer: and UI design :cat2: . I spent the last 3 weeks of summer working on [**pik**](https://akhl.me), a social media platform to share photos and get a summary of your posts based on tags like people or food. I also worked on a React web app called [**ThinkSmall**](https://github.com/CPSC436/ThinkSmall) over the summer. I am actively working on [**nwHacks2021**](https://nwhacks.io) @ nwPlus and [**Life @ UBC**](https://github.com/ubclaunchpad/life-at-ubc) project at UBC LaunchPad.
+I major in CS because I love to be challenged, and the projects I work on could potentially impact millions of people around the globe. I have previously interned at [Google](https://www.google.ca/) and [SAP](https://www.sap.com/canada/index.html). Feel free to reach out if you'd like to learn more about my experience or any of the projects I've worked on. I'd love to chat ✨
 
 [![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehee&hide=stars&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)](https://yehee.github.io)
 
